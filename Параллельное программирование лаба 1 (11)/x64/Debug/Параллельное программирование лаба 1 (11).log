@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\nika-\documents\visual studio 2015\projects\параллельное программирование лаба 1 (11)\параллельное программирование лаба 1 (11)\source1.cpp(89): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\nika-\documents\visual studio 2015\projects\параллельное программирование лаба 1 (11)\параллельное программирование лаба 1 (11)\source1.cpp(77): warning C4101: Status: неиспользованная локальная переменная
+  Параллельное программирование лаба 1 (11).vcxproj -> C:\Users\nika-\Documents\Visual Studio 2015\Projects\Параллельное программирование лаба 1 (11)\x64\Debug\Параллельное программирование лаба 1 (11).exe
